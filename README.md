@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Welcome :))
+I'm Adam, a Computer Science & Maths student
+- 🔭 I’m currently working on PC Optimization App : [optifast.](https://optifast.vercel.app/)
+- 🌱 I’m currently learning ✨ Mobile developpement - ***Android***✨
 <!--
 **Chirraaa/Chirraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
