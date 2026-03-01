@@ -1,6 +1,6 @@
 ## Welcome :))
 I'm Adam, a Computer Science & Maths student
-- 🔭 I’m currently working on a PC Optimization App : [optifast.](https://optifast.app/)
+- 🔭 I made a PC Optimization App : [optifast.](https://optifast.app/) and [coachys](https://coachys.fit/) a platform for independent personal trainers.
 - 🌱 I’m currently learning Mobile development - *Android* && OpenGL
 - 👯 I’m looking to collaborate on various software development projects in order to learn and expand my knowledge!
 <!--
